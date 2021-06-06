@@ -1,0 +1,2 @@
+# ThedispardCoin-Beta
+ Cryptocurrency.
